@@ -34,13 +34,13 @@
 ## Инструкция к использованию
 
 ### Запуск симуляций
-```python
+```bash
 cd src
 python main.py
 cd ..
 ```
 ### Запуск тестов
-```python
+```bash
 cd tests
 pytest test.py
 cd ..
