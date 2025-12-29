@@ -41,6 +41,7 @@ cd ..
 ```
 ### Запуск тестов
 ```bash
+pip install pytest
 cd tests
 pytest test.py
 cd ..
